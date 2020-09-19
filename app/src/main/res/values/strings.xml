@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhereFi</string>
+    <string name="admob_app_id">addmob_id</string>
+    <string name="banner_ad_unit_id">banner_id</string>
+    <string name="banner_ad_unit_id_test">banner_test_id</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
